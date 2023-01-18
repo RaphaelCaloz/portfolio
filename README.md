@@ -2,7 +2,7 @@
 
 ## YouTube Data Scraper
 
-<a href="https://github.com/RaphaelCaloz/youtube-data-scraper">Click here to view this project's code repository.</a>
+<a href="https://github.com/RaphaelCaloz/youtube-data-scraper">Click here to view this project's code repository (which includes a more detailed description).</a>
 
 This software navigates YouTube to collect video data (thumbnail images and tabular data). Since YouTube's API greatly limits the number of queries per day, it is not practical to build a dataset with it. This data scraper bypasses the API by simulating a human user navigating the website, collecting data along the way. This makes the collection of a substantial dataset practical.
 
@@ -16,7 +16,7 @@ _The data scraper navigating YouTube._
 
 ## Full Stack Comic Strip Web App
 
-<a href="https://github.com/RaphaelCaloz/web-app-comic-strips">Click here to view this project's code repository.</a>
+<a href="https://github.com/RaphaelCaloz/web-app-comic-strips">Click here to view this project's code repository (which includes a more detailed description).</a>
 
 <a href='https://raphael-caloz-comic-strips.herokuapp.com/'>Click here to view this project's website.</a>
 
