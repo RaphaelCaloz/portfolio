@@ -4,6 +4,8 @@
 
 <a href="https://github.com/RaphaelCaloz/youtube-data-scraper">Click here to view this project's code repository (which includes a more detailed description).</a>
 
+This project was made with Python (Selenium, JSON, CSV, Regex, Pickle).
+
 This software navigates YouTube to collect video data (thumbnail images and tabular data). Since YouTube's API greatly limits the number of queries per day, it is not practical to build a dataset with it. This data scraper bypasses the API by simulating a human user navigating the website, collecting data along the way. This makes the collection of a substantial dataset practical.
 
 <br>
@@ -19,6 +21,8 @@ _The data scraper navigating YouTube._
 <a href="https://github.com/RaphaelCaloz/web-app-comic-strips">Click here to view this project's code repository (which includes a more detailed description).</a>
 
 <a href='https://raphael-caloz-comic-strips.herokuapp.com/'>Click here to view this project's website.</a>
+
+This project was made with Javascript (Node, React, Express), PostgreSQL, CSS and HTML.
 
 This web app, hosted on Heroku, displays comic strips.
 Its backend is built with Express (Node.js web application framework) and features a REST API, while its frontend is built using React.
